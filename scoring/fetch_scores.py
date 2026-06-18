@@ -14,7 +14,7 @@ import re
 ESPN_URL = "https://site.web.api.espn.com/apis/site/v2/sports/golf/pga/scoreboard"
 
 # Augusta National pars (fixed)
-AUGUSTA_PARS = [4, 5, 4, 4, 4, 3, 4, 3, 4, 4, 4, 3, 4, 4, 4, 5, 3, 4]  # Shinnecock Hills par 70
+AUGUSTA_PARS = [4, 3, 4, 4, 5, 4, 3, 4, 4, 4, 3, 4, 4, 4, 4, 5, 3, 4]  # Shinnecock Hills par 70 - corrected
 
 # ── Teams ─────────────────────────────────────────────────────
 TEAMS = {
